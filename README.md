@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+First change afrer cloning the repository to panostzel one
 
 ## Purpose
 
